@@ -1,0 +1,13 @@
+.env
+*.log
+__pycache__/
+venv/
+*.cache
+*.session
+migrations
+build/
+dist/
+*.egg-info/
+.idea/
+*.sql
+*.backup
