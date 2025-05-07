@@ -1,3 +1,5 @@
 from django.contrib import admin
+from aungko.models import *
 
-# Register your models here.
+admin.site.register(Questions)
+admin.site.register(Answers)
